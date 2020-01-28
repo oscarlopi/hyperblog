@@ -1,8 +1,5 @@
-Hola habìa una vez un patito
+Esta es la historia de Oscar
 
-por qué un patito? no lo sé?
+Oscar es contador y tuvo una pequeña aventura en la música
 
-es por una banda seguramente, tal vez tú la conoces
-es el Shirota
-
-Seguro has visto al pato en una playera
+Ahora quiere ser data scientist y quiere comerse al mundo con su intelecto
