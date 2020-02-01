@@ -2,4 +2,6 @@ Esta es la historia de Oscar
 
 Oscar es contador y tuvo una pequeña aventura en la música
 
+Master 1
+
 Ahora quiere ser data scientist y quiere comerse al mundo con su intelecto
